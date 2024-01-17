@@ -13,3 +13,8 @@ bun run dev
 ```
 
 Open http://localhost:3000/ with your browser to see the result.
+
+## How to test?
+- Download the `ElysiaJS-Basic.postman_collection.json` file.
+- Import this file into your Postman.
+- Open the imported collection and make the requests.
